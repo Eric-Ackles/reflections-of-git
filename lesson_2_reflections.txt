@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+    
+    1) A ".git" folder was created to store snapshots and other information.
+    2) The ".git" folder works as a container. We have to create it first.
+    
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+    1) Staging area works a temporary container.
+    2) You can select what to commit.
