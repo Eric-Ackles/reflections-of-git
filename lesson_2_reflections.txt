@@ -8,3 +8,13 @@ repository? What value do you think it offers?
 
     1) Staging area works a temporary container.
     2) You can select what to commit.
+    
+How can you use the staging area to make sure you have one commit per logical change?
+
+    1) You can select the files that you want to commit.
+    2) But if you make too much change to a single file, this will not help.
+    
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+    
+    1) A branch may be helpful if we want to try something out.
+    2) It is also helpful if there are multiple persons working on the same project.
